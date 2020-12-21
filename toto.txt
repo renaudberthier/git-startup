@@ -1,2 +1,5 @@
 toto
+
 Autre modification de toto.txt
+Mais aussi :
+Modification du fichier toto
